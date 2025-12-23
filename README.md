@@ -16,7 +16,7 @@
 
 <div align="center" width="100%">
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=&weight=700&size=23&pause=1000&color=1800AD&center=true&vCenter=true&width=600&lines=Desenvolvedor+Web;T%C3%A9cnico+em+Desenvolvimento+de+Sistemas;Sites+modernos+para+seu+neg%C3%B3cio+vender+mais)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&color=FFFFFF&center=true&vCenter=true&width=601&lines=Desenvolvedor+Web;T%C3%A9cnico+em+Desenvolvimento+de+Sistemas;Sites+modernos+para+seu+negocio+vender+mais)](https://git.io/typing-svg)
 
 </div>
 
