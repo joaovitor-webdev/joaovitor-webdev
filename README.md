@@ -24,7 +24,7 @@ Sou Desenvolvedor Web Full Stack e Técnico em Desenvolvimento de Sistemas, com 
 
 <br>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=joaovitor-webdev&theme=transparent&hide_border=true&locale=pt_BR&short_numbers=true&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=joaovitor-webdev&theme=transparent&hide_border=true&locale=pt_BR&short_numbers=true&date_format=j%20M%5B%20Y%5D&mode=weekly)
 
 <br>
 
