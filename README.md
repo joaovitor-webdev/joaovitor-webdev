@@ -10,6 +10,8 @@
 
 # João Vitor | Web Dev
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaovitor-webdev/) ![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5581992718851) ![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)
+
 </div>
 
 <div align="center" width="100%">
@@ -20,16 +22,15 @@
 
 Sou Desenvolvedor Web Full Stack e Técnico em Desenvolvimento de Sistemas, com competências na criação de soluções eficientes para web. Trabalho em projetos reais utilizando tecnologias modernas, como JavaScript, React.js e Node.js, sempre aplicando boas práticas de desenvolvimento.
 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 <div align="center">
 
-| ![Profile details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joaovitor-webdev&theme=transparent) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=joaovitor-webdev&theme=transparent&hide_border=true&locale=pt_BR&short_numbers=true&date_format=j%20M%5B%20Y%5D&mode=weekly) |
+![Profile details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joaovitor-webdev&theme=transparent)
+
+| ![General stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=joaovitor-webdev&theme=transparent) | ![joaovitor-webdev trophies](https://github-readme-stats.vercel.app/api/top-langs/?username=joaovitor-webdev&theme=transparent&hide_border=true) |
 |:-:|:-:|
 
-<br>
-
-| ![joaovitor-webdev trophies](https://github-readme-stats.vercel.app/api/top-langs/?username=joaovitor-webdev&theme=transparent&hide_border=true) | ![General stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=joaovitor-webdev&theme=transparent) |![Top languages by commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=joaovitor-webdev&theme=transparent) |  
-|:-:|:-:|:-:|
-
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=joaovitor-webdev&theme=transparent&hide_border=true&locale=pt_BR&short_numbers=true&date_format=j%20M%5B%20Y%5D&mode=weekly)
 
 </div>
 
