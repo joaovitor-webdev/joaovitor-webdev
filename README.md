@@ -1,3 +1,5 @@
+<div align="center">
+
 ![Banner - waving capsule](https://capsule-render.vercel.app/api?type=waving&height=120&color=1800ad&descAlignY=100&descAlign=100)
 
 <div align="center">
@@ -20,11 +22,8 @@ Sou Desenvolvedor Web Full Stack e Técnico em Desenvolvimento de Sistemas, com 
 
 <div align="center">
 
-![Profile details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joaovitor-webdev&theme=transparent)
-
-<br>
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=joaovitor-webdev&theme=transparent&hide_border=true&locale=pt_BR&short_numbers=true&date_format=j%20M%5B%20Y%5D&mode=weekly)
+| ![Profile details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joaovitor-webdev&theme=transparent) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=joaovitor-webdev&theme=transparent&hide_border=true&locale=pt_BR&short_numbers=true&date_format=j%20M%5B%20Y%5D&mode=weekly) |
+|:-:|:-:|
 
 <br>
 
@@ -35,3 +34,4 @@ Sou Desenvolvedor Web Full Stack e Técnico em Desenvolvimento de Sistemas, com 
 </div>
 
 ![Footer - waving capsule](https://capsule-render.vercel.app/api?type=waving&height=100&color=1800ad&descAlignY=100&descAlign=100&section=footer)
+</div>
