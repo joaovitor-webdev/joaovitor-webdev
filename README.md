@@ -23,12 +23,13 @@
 Sou Desenvolvedor Web Full Stack e Técnico em Desenvolvimento de Sistemas, com competências na criação de soluções eficientes para web. Trabalho em projetos reais utilizando tecnologias modernas, como JavaScript, React.js e Node.js, sempre aplicando boas práticas de desenvolvimento.
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+
 <div align="center">
 
-![Profile details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joaovitor-webdev&theme=transparent)
+  ![Profile details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joaovitor-webdev&theme=transparent)
 
-| ![General stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=joaovitor-webdev&theme=transparent) | ![joaovitor-webdev trophies](https://github-readme-stats.vercel.app/api/top-langs/?username=joaovitor-webdev&theme=transparent&hide_border=true) |
-|:-:|:-:|
+  | ![General stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=joaovitor-webdev&theme=transparent) | ![joaovitor-webdev trophies](https://github-readme-stats.vercel.app/api/top-langs/?username=joaovitor-webdev&theme=transparent&hide_border=true) |
+  |:-:|:-:|
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=joaovitor-webdev&theme=transparent&hide_border=true&locale=pt_BR&short_numbers=true&date_format=j%20M%5B%20Y%5D&mode=weekly)
 
