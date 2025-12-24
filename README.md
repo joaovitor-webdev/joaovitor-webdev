@@ -31,7 +31,7 @@ Sou Desenvolvedor Web Full Stack e Técnico em Desenvolvimento de Sistemas, com 
   | ![General stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=joaovitor-webdev&theme=transparent) | ![joaovitor-webdev trophies](https://github-readme-stats.vercel.app/api/top-langs/?username=joaovitor-webdev&theme=transparent&hide_border=true) |
   |:-:|:-:|
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=joaovitor-webdev&theme=transparent&hide_border=true&locale=pt_BR&short_numbers=true&date_format=j%20M%5B%20Y%5D&mode=weekly)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=joaovitor-webdev&theme=transparent&card_width=885)
 
 </div>
 
